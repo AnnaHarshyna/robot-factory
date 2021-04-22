@@ -1,0 +1,20 @@
+{
+  "name": "robot-factory",
+  "version": "1.0.0",
+  "description": "Robot factory implementatin using prototypes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaHarshyna/robot-factory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaHarshyna/robot-factory/issues"
+  },
+  "homepage": "https://github.com/AnnaHarshyna/robot-factory#readme"
+}
